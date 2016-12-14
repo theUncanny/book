@@ -1,6 +1,8 @@
 #!/bin/bash
 
 aspell --version
+aspell -d en dump master | grep GitHub
+aspell dump dicts
 
 # Checks project markdown files for spell errors
 
