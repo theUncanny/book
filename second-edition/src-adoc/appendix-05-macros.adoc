@@ -1,0 +1,8 @@
+[[appendix-e-macros]]
+== Appendix E: Macros
+
+[[basics-of-writing-your-own-macros]]
+== Basics of writing your own macros
+
+[[macros-are-changing-go-see-x-for-more-info]]
+== Macros are changing, go see X for more info

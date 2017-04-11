@@ -1,0 +1,14 @@
+[[advanced-lifetimes]]
+= Advanced Lifetimes
+
+[[lifetimes-that-depend-on-other-lifetimes]]
+=== Lifetimes that depend on other lifetimes
+
+'a: 'b stuff: subtyping
+
+[[higher-ranked-trait-bounds]]
+=== Higher ranked trait bounds
+
+for<'a>
+
+Needed for closures
